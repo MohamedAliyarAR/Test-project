@@ -1,0 +1,90 @@
+*{
+  margin: 0;
+
+}
+body{
+  text-align: center;
+  justify-content: center;
+}
+a{
+  color: black !important;
+ text-decoration: none !important; 
+ cursor: pointer;
+}
+
+p{
+  font-size: 1.2rem;
+}
+
+
+h1{
+  font-size: 3rem;
+}
+
+h2{
+  font-size: 2.5rem;
+  margin:50px ;
+  letter-spacing: 3px;
+  }
+
+
+h5{
+margin-top: 20px;
+}
+
+.title-nav{
+  padding: 10px 20px ;
+}
+
+.Title{
+  color: #fff;
+
+  /* Set a specific height */
+  min-height: 100vh;
+  background: linear-gradient(160.66deg, #98FB98 13.49%, rgba(29, 28, 40, 0) 87.08%), url(/images/title-img.jpg) ;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+.title-context{
+  font-size: 3rem;
+  text-align: center;
+  justify-content: center;
+  word-wrap: break-word;
+  margin-top: 300px ;
+}
+
+.img{
+  width: 80px;
+  height: 80px;
+}
+
+#about{
+  
+  align-items: center;
+  
+}
+
+
+.about-flex{
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#Team{
+  background-color: #98FB98;
+  color: #fff;
+}
+
+
+.team-img{
+  width: 80px;
+}
+
